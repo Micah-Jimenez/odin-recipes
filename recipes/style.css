@@ -17,3 +17,9 @@ h1 {
 .home-break{
     height: 50px;
 }
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
